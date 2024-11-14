@@ -1,2 +1,0 @@
-# DepositTimes
-DepositTimes.Bot
